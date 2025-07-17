@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "tempvision-3930a",
-  "private_key_id": "3a42d0e268fc2bd90bfe4d03e791eea4d6c6a921",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQemPTtbUt3yEj\n2dRUF+MkX64JmI08HOnWNOORpG0ptOKbh78Eq6dFWGPoKYW1VBAsSrN/Zl58h5f/\n8JJ3PLAWxSlU1U6gg7IToeOh/NHADtVk9eXfqUSO0F6vkYQ0+IAPgZhEqHQT+yHT\nCwbP5ufzElPsTpSYKQ83AkKo384+J5eArlqY+l/B667HbGCTb43Ntr4RJDtS8Wv5\nyjG9i2+SZDVj2vFYMcNyUIQyn+9UBaHQp7IPAZbIKFBzKJkKg2Es462tt832rmZC\nMIvIBnQblk24dXaxOmMMcsR0QwqiWeWQuJHJnszBQ0diulE8fKZDjCOgGbYLnY4H\nknK0qBjTAgMBAAECggEALOAbeufjLxOXk5sA/HUD3MGHueMPi8ABia1qyt/k65RX\nLvliYcP9Ro0HPGMrt+N3c8FEsAi+D/oz+tCzBl2W3d/kzLD5ss2GWHmBgU3lbH0E\n7C2OJL3P1xn9N7eQCMLw9eWEfEryaZamKkJ2XewrQ4RPck9b5wD3mHSxGp7KS1Bg\n7vxDfw5nZN4udfN3hsw2C9m2om60d2eZf8RxPoMhkFOpq4huFMesBFFZb1WUgtzM\n7KU435rsQhYD8WdzgIz/u9ygd2SKRsb7DLwkV3cKkDvQs+Ys31umqd3erIlJkMf9\nftaMDb/1RCOIwcMKlTeRvd6fFDnPkALvt62lRSsqAQKBgQDrx6sbAlLeJ8j8ZBMT\nuwwa9cB7JiJ2Nt8rjFEusnGDOCAkeFxfSBJUtGMDfFCePrK5BVoDXxeiuTYv1Q8C\nOXXio+VSK9C6MfiviYSqD4jWrvJnd9vfC3MtGmeu91sLamO6yVAqu4dXVPdb73UY\n3iqiuuXt1CXJcEihFd26mA1D0wKBgQDiW1WN9ayGWgeiN3h8efTF1CxwiXXlApd4\nfsk4tHXou6gln0HI+Ng6NNtOSY3x5Obm9AXPjfbprZmpAMIV/arJl/6fqtL1SzX6\n4wFDFiidIQhquxOQCMdfp/UdwW4aAJpkgfn/gLU/KWRiQOE5TrFp1rYNrSjKVIyf\nqbpvugW3AQKBgQCVPtJkSlhCH1Ttzjr1JlVHS4AHc+AkjB8/5ZYNxQ5tTT2rWDTA\na1KPI4/5SNuPD4j57RVJRQwlCK/wHyFc+xpP2Ab0uJ9q/O65zoaXTzYDDsKKFCit\nSwYg6rHu4sxSsYlnVr7UDdhhw3rASxcIIrlCQKQCo2M320deEAVGc7ER2QKBgA4S\nM21RulnXuuXAoQLL6gVqPSD5ypRj5tqctxGJVlMTZ05/ae1+WqKzqnZhaCuDWT8+\nKCZQ4up/2i+BVo9bZ4SEqFVwnxCUjlR8TBXJiNjLtuQ7oOmxQgOWQ0yIO7nuE6rv\n0YSqkZnNjun0souHcsvrhwGuo/x/6QX73RUY8UYBAoGBALW6yxy51BFNXxSxnIoy\nVhrNZDOShnUuW0DXTUpU49dN4/4A7PpXNLwu4olIj4BQSzLloWwgoAReNEgiOZUV\n41wp6bou1Q8bkQQ2j8u+MmcWb7HdMh3jRH6RaD57e2wMHuEgEgF/CyML/cRZHOin\n678TcABoOcnqkTpIFWVy1blN\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@tempvision-3930a.iam.gserviceaccount.com",
-  "client_id": "102226504179923178614",
+  "project_id": "your-project-id",
+  "private_key_id": "your-private-key-id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nYOUR-PRIVATE-KEY\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xxxxx@your-project-id.iam.gserviceaccount.com",
+  "client_id": "your-client-id",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40tempvision-3930a.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xxxxx%40your-project-id.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
